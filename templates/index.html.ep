@@ -1,0 +1,5 @@
+% layout 'wrapper';
+
+Hello External Template World!<br>
+Please, check out our <a href="/echo">echo</a> page.
+
