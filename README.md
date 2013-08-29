@@ -1,10 +1,10 @@
 Mojolicious::Lite
 ======================================
 
-Add embedded template
+Move template and layout to external files.
 
 The exercise related to the article
-[]()
+[Adding a layout to a Mojolicious::Lite based application](http://perlmaven.com/pro/adding-layout-to-mojolicious-lite-based-application)
 
 
 The source code in this repository is Copyright Gabor Szabo.
